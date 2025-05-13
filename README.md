@@ -41,7 +41,7 @@ This is a simple Node.js application containerized using Docker. The application
 
    You should see the message: **Hello, Docker!**
 
-Dockerhub:
+Dockerhub:https://hub.docker.com/repository/docker/sudheshna998/docker_node/general
 
 
-Github:
+Github:https://github.com/sudheshna-30/docker_node
